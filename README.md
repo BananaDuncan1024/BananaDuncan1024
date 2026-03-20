@@ -18,10 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cordova/cordova-original.svg" alt="Cordova" width="40" height="40"/>
+  <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="Cordova" width="40" height="40"/>
 <br>
   <!-- Backend & Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <br>
@@ -38,7 +38,7 @@
 [My LinkedIn Profile](https://www.linkedin.com/in/duncan-lin-1285b7255/)
 
 ### GitHub Stats:
-<p align="left">
+<p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=BananaDuncan1024&show_icons=true&theme=dark"
@@ -48,8 +48,9 @@
       srcset="https://github-readme-stats.vercel.app/api?username=BananaDuncan1024&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=BananaDuncan1024&show_icons=true" alt="BananaDuncan1024's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BananaDuncan1024&show_icons=true" alt="BananaDuncan1024's GitHub stats" height="192" />
   </picture>
+  <a href="https://github.com/BananaDuncan1024">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaDuncan1024&layout=donut" alt="Top Langs" height="192" />
+  </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaDuncan1024&layout=donut)](https://github.com/BananaDuncan1024)
